@@ -1,5 +1,3 @@
-#Directory
-temp
+temp/
 
-#Files
 *.log.txt
